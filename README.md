@@ -41,23 +41,7 @@ Kelas `Tabel` digunakan untuk mengelola data yang ditampilkan dalam tabel. Berik
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/irgantaraa/Tugas-Akhir-DKP-2018.git
-Masuk ke direktori proyek:
-
-bash
-Copy code
+2. Masuk ke direktori proyek:
+  ```bash
 cd Tugas-Akhir-DKP-2018
 
-Penggunaan
-Untuk menjalankan proyek ini, gunakan perintah berikut:
-
-bash
-Copy code
-[perintah untuk menjalankan aplikasi, misalnya, mvn exec:java]
-Kontribusi
-Jika Anda ingin berkontribusi, silakan lakukan fork repositori ini dan buat pull request. Pastikan untuk mengikuti pedoman kontribusi yang ada.
-
-Lisensi
-Proyek ini dilisensikan di bawah - lihat berkas LICENSE untuk detail lebih lanjut.
-
-Kontak
-Untuk pertanyaan lebih lanjut, Anda bisa menghubungi saya di irgantaraa@gmail.com atau melalui profil GitHub saya di https://github.com/irgantaraa.
