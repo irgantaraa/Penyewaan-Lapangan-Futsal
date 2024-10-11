@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Tugas Akhir ini merupakan proyek akhir dari program studi Teknik Komputer di Universitas Diponegoro. Proyek ini bertujuan untuk mengembangkan aplikasi [deskripsikan tujuan aplikasi Anda, misalnya, sistem pemesanan lapangan olahraga].
+Tugas Akhir ini merupakan proyek akhir dari program studi Teknik Komputer di Universitas Diponegoro. Proyek ini bertujuan untuk mengembangkan aplikasi memesan lapangan futsal bahasa pemograman java dengan GUI.
 
 ## Fitur
 
