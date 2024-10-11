@@ -8,7 +8,6 @@ Tugas Akhir ini merupakan proyek akhir dari program studi Teknik Komputer di Uni
 
 - Pengelolaan pemesanan lapangan
 - Menampilkan daftar pemesan dalam tabel
-- [Fitur lain yang relevan]
 
 ## Struktur Proyek
 
@@ -47,7 +46,6 @@ Masuk ke direktori proyek:
 bash
 Copy code
 cd Tugas-Akhir-DKP-2018
-[Petunjuk instalasi tambahan, jika ada]
 
 Penggunaan
 Untuk menjalankan proyek ini, gunakan perintah berikut:
@@ -59,7 +57,7 @@ Kontribusi
 Jika Anda ingin berkontribusi, silakan lakukan fork repositori ini dan buat pull request. Pastikan untuk mengikuti pedoman kontribusi yang ada.
 
 Lisensi
-Proyek ini dilisensikan di bawah [Nama Lisensi] - lihat berkas LICENSE untuk detail lebih lanjut.
+Proyek ini dilisensikan di bawah - lihat berkas LICENSE untuk detail lebih lanjut.
 
 Kontak
-Untuk pertanyaan lebih lanjut, Anda bisa menghubungi saya di [alamat email Anda] atau melalui profil GitHub saya di https://github.com/irgantaraa.
+Untuk pertanyaan lebih lanjut, Anda bisa menghubungi saya di irgantaraa@gmail.com atau melalui profil GitHub saya di https://github.com/irgantaraa.
