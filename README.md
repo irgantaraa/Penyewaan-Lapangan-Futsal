@@ -36,12 +36,5 @@ Kelas `Tabel` digunakan untuk mengelola data yang ditampilkan dalam tabel. Berik
 - `public DefaultTableModel getTabel()`: Mengembalikan model tabel yang ada.
 - `public void setTabel(DefaultTableModel Tabel)`: Mengatur model tabel yang baru.
 
-## Instalasi
-
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/irgantaraa/Tugas-Akhir-DKP-2018.git
-2. Masuk ke direktori proyek:
-  ```bash
-cd Tugas-Akhir-DKP-2018
+  
 
